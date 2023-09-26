@@ -16,10 +16,10 @@ Ace The Flop is a sophisticated and innovative multiplayer poker training game, 
 Our application leverages the following technologies:
 
 - **Frontend**: TypeScript, React.js, Next.js, Tailwind CSS
-- **Backend**: Kotlin with Ktor framework
+- **Backend**: NestJS
 - **Database**: PostgreSQL
 - **State Management**: Redux
-- **Machine Learning (AI Bot)**: TensorFlow.js
+- **Machine Learning (AI Bot)**: TensorFlow.js, among others
 
 ## Playing the Game
 
